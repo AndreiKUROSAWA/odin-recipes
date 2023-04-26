@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(179, 19, 51);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sec-line{
+    color: rgb(63, 63, 169);
+    font-size: 36px;
+}
+
+.odd.cool{
+    font-size: 38px;
+}
+
+#forth-line{
+    background-color: rgb(13, 224, 154);
+    font-size: 24px;
+    font-weight: bold;
+}
