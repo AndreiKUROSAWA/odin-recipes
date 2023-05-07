@@ -1,0 +1,30 @@
+body{
+    background-color: darksalmon;
+}
+ol li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: midnightblue;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    text-align: center;
+    background-color: coral;
+}
+h2{ 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px; 
+    
+}
+
+img{
+    height: 300px;
+    width: auto;
+    float: left;
+    margin-right: 30px;
+}
+.rec{
+    float: left;
+    
+}
